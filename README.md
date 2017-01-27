@@ -3,7 +3,7 @@ Associate image/description to attribute options
 
 # I leave you an example to observe the image and description in a advanced search results:
 
-<div class="advanced-search-summary">
+# <div class="advanced-search-summary">
     <?php $searchCriterias=$this->getSearchCriterias(); ?>
 	    <?php //var_dump($searchCriterias); ?>
 	        
